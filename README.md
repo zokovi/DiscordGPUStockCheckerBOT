@@ -6,7 +6,7 @@ Bot made using discord API wrapper for python: https://github.com/Rapptz/discord
 
 Scraping uses Selenium and BeautifulSoup4 in python.
 
-This bot currenly scrapes from Nvidia Geforce Official Store in Tokopedia.
+This bot currently scrapes from Nvidia Geforce Official Store in Tokopedia.
 
 
 ## Requirements
