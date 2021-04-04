@@ -27,7 +27,17 @@ This bot currenly scrapes from Nvidia Geforce Official Store in Tokopedia.
 4. discord.py 
 
     > pip3 install discord.py
-    > 
+    
+
+## Usage
+1. Install Requirements (advised to use virtualenv) and put the driver to ./bin/
+
+2. Change TOKEN in the main.py to your discord bot tokens.
+
+3. Run the main.py (activate virutalenv first if you're using virtualenv)
+
+> python3 main.py
+
 
 ## Future Updates
 
