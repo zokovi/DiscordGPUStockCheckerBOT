@@ -36,7 +36,7 @@ This bot currenly scrapes from Nvidia Geforce Official Store in Tokopedia.
 
 3. Run the main.py (activate virutalenv first if you're using virtualenv)
 
-> python3 main.py
+    > python3 main.py
 
 
 ## Future Updates
