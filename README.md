@@ -1,6 +1,6 @@
 # DiscordGPUStockCheckerBOT
 
-Bot buat ngecek alert stock GPU sekitaran MSRP
+Bot & Scraper for checking Nvidia GPU availability in MSRP from Indonesian e-commerce sites.
 
 Bot made using discord API wrapper for python: https://github.com/Rapptz/discord.py
 
